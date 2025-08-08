@@ -1,4 +1,4 @@
-#Privacy
+# Privacy
 <body>
   <h1>Privacy Policy</h1>
   <p>Last updated: August 8, 2025</p>
